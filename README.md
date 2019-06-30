@@ -24,6 +24,8 @@
 
 ### 安卓上的嵌入clojure1.7(含有类加载器)和repl启动
 
-
-
+### emacs develop
+```elisp
+(global-set-key (kbd "C-p") 'cider-eval-last-sexp)
+```
 
